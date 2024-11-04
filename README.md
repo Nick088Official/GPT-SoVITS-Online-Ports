@@ -8,7 +8,7 @@ Run UI **(WARNING: YOU COULD RISK YOUR FREE TIER COLAB ACCOUNT)** <a target="_bl
 
 ## Kaggle
 
-- [Run WEB UI **(WARNING: YOU COULD RISK YOUR KAGGLE ACCOUNT)** ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()
+- [Run WEB UI **(WARNING: YOU COULD RISK YOUR KAGGLE ACCOUNT)** ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://github.com/Nick088Official/GPT-SoVITS-Colab/blob/main/kaggle-gpt-sovits-webui.ipynb)
 
 1. Download the Kaggle Notebooks File above
 2. Go on https://kaggle.com, be sure you make an account and are phone verified.
