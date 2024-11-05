@@ -16,8 +16,14 @@ Run UI **(WARNING: YOU COULD RISK YOUR FREE TIER COLAB ACCOUNT)** <a target="_bl
 4. Click 'File' and 'Import Notebook'.
 5. Import the kaggle notebook file.
 
+## Lightning AI
+[Lightning AI Studio UI ![Static Badge](https://img.shields.io/badge/Lightning-Studio-%23792EE5?style=flat&logo=lightning&logoColor=%23792EE5&labelColor=white)
+](https://lightning.ai/nick088/studios/gpt-sovits-webui)
+
 
 ## Changelog
+### Update - November 5th, 2024
+Add Lightning.ai UI Port.
 ### Update - November 4th, 2024
 Add Kaggle UI Port.
 ### Update - November 3rd, 2024
