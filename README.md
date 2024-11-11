@@ -22,6 +22,8 @@ Run UI **(WARNING: YOU COULD RISK YOUR FREE TIER COLAB ACCOUNT)** <a target="_bl
 
 
 ## Changelog
+### Update - November 11th, 2024
+Added Horizon Tunnel in Google Colab UI & Lightning.ai UI, Added more info for tunnels in Kaggle UI, Lightning.ai UI & Google Colab UI.
 ### Update - November 5th, 2024
 Add Lightning.ai UI Port.
 ### Update - November 4th, 2024
