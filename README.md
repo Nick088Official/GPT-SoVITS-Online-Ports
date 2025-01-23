@@ -22,6 +22,8 @@ Run UI **(WARNING: YOU COULD RISK YOUR FREE TIER COLAB ACCOUNT)** <a target="_bl
 
 
 ## Changelog
+### Update - January 23th, 2025
+Fixed Google Colab WebUI, which had issues because of the recent Google Colab update from Python 3.10.12 to 3.11.11.
 ### Update - January 18th, 2025
 Updated readme to link gpt-sovits
 ### Update - November 11th, 2024
